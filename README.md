@@ -26,5 +26,4 @@ The Token Dex DApp is built using the following technologies:
 
 
 ---
-
-Thank you for using Token Dex on the Sui Blockchain! We hope you have a great experience trading tokens in a decentralized and secure manner.
+# To be continued..
